@@ -14,7 +14,7 @@ int main(){
 	cout<<"Your matrix is:\n";
 	for(i=0;i<row;i++){
 		for(j=0;j<col;j++){
-			cout<<"\t"<<arr[i][j];	
+			cout<<"\t"<<arr[i][j];
 		}
 		cout<<endl;
 	}

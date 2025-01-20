@@ -12,7 +12,7 @@ public:
 	{ 
 		size = n; 
 		arr = new int[n]; 
-		top1 = 0; 
+		top1 = 0;
 		top2 = n-1; 
 	} 
 
